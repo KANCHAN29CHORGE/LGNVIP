@@ -1,2 +1,2 @@
-# LGNVIP
-Data_Science_task
+# LGNVIP-DataScience
+task
